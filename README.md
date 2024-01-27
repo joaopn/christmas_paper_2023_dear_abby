@@ -1,5 +1,5 @@
 # christmas_paper_2023_dear_abby
-"Dear Abby" analysis code and results for the 2023 Christmas paper.
+"Dear Abby" analysis code and results for the 2023 Holiday Paper Series: Abusing Large Language Models for Advice Generation and Behavior Simulation. Full paper here: https://osf.io/x8pqr
 
 #### Notebooks
 - `dear_abby_queries.ipynb`: Runs the queries, with details of each model (model variant)
